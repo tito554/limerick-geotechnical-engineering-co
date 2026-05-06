@@ -1,0 +1,51 @@
+# Geotechnical Engineering — Limerick
+
+> Geotechnical engineering services in Limerick, Ireland.
+
+## Services
+- [Anchors](https://limerick.geotechnical-engineering.co/anchors/)
+- [Atterberg Limits](https://limerick.geotechnical-engineering.co/atterberg-limits/)
+- [Cbr Road](https://limerick.geotechnical-engineering.co/cbr-road/)
+- [Cpt Test](https://limerick.geotechnical-engineering.co/cpt-test/)
+- [Deep Excavations](https://limerick.geotechnical-engineering.co/deep-excavations/)
+- [Excavation Monitoring](https://limerick.geotechnical-engineering.co/excavation-monitoring/)
+- [Excavations](https://limerick.geotechnical-engineering.co/excavations/)
+- [Flexible Pavement](https://limerick.geotechnical-engineering.co/flexible-pavement/)
+- [Footings](https://limerick.geotechnical-engineering.co/footings/)
+- [Foundations](https://limerick.geotechnical-engineering.co/foundations/)
+- [Grain Size](https://limerick.geotechnical-engineering.co/grain-size/)
+- [Ground Improvement](https://limerick.geotechnical-engineering.co/ground-improvement/)
+- [Grouting](https://limerick.geotechnical-engineering.co/grouting/)
+- [In Situ Permeability](https://limerick.geotechnical-engineering.co/in-situ-permeability/)
+- [Investigation](https://limerick.geotechnical-engineering.co/investigation/)
+- [Lab In Situ](https://limerick.geotechnical-engineering.co/lab-in-situ/)
+- [Laboratory](https://limerick.geotechnical-engineering.co/laboratory/)
+- [Liquefaction](https://limerick.geotechnical-engineering.co/liquefaction/)
+- [Masw](https://limerick.geotechnical-engineering.co/masw/)
+- [Mat Foundations](https://limerick.geotechnical-engineering.co/mat-foundations/)
+- [Piles](https://limerick.geotechnical-engineering.co/piles/)
+- [Proctor Tests](https://limerick.geotechnical-engineering.co/proctor-tests/)
+- [Resistivity](https://limerick.geotechnical-engineering.co/resistivity/)
+- [Retaining Walls](https://limerick.geotechnical-engineering.co/retaining-walls/)
+- [Rigid Pavement](https://limerick.geotechnical-engineering.co/rigid-pavement/)
+- [Road Geotechnics](https://limerick.geotechnical-engineering.co/road-geotechnics/)
+- [Sand Cone Density](https://limerick.geotechnical-engineering.co/sand-cone-density/)
+- [Seismic](https://limerick.geotechnical-engineering.co/seismic/)
+- [Seismic Isolation](https://limerick.geotechnical-engineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://limerick.geotechnical-engineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://limerick.geotechnical-engineering.co/seismic-refraction/)
+- [Slope Stability](https://limerick.geotechnical-engineering.co/slope-stability/)
+- [Slopes](https://limerick.geotechnical-engineering.co/slopes/)
+- [Soft Ground Tunnels](https://limerick.geotechnical-engineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://limerick.geotechnical-engineering.co/spt-drilling/)
+- [Stone Columns](https://limerick.geotechnical-engineering.co/stone-columns/)
+- [Test Pits](https://limerick.geotechnical-engineering.co/test-pits/)
+- [Triaxial](https://limerick.geotechnical-engineering.co/triaxial/)
+- [Vibrocompaction](https://limerick.geotechnical-engineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://limerick.geotechnical-engineering.co/
+
+## About
+This site provides geotechnical engineering services in Limerick, Ireland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
